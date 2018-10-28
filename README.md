@@ -27,6 +27,6 @@ Pipeline (Updated):
 * Algorithm: 
    * Build the classifier SVM as the baseline model, split data into train_validation_test, implement Random Forest (RF),K-nearest neighbors (KNN) to test the accuracy, which based on small datasets. Besides apply MLP, the simplified neural networks to run the model, the code will implemented by the deep learning lib Keras, the final model hypothesis is RNN + LSTM. 
    
-Related working reference: 
+Related working reference:  
 - CodeBook UCI Data Analysis. (n.d.). Retrieved July 23, 2018, http://ucihar-data-analysis.readthedocs.io/en/latest/CodeBook/
 - Paul, J. (n.d.). Peak signal detection in real time time series data. Retrieved July 23, 2018, https://stackoverflow.com/questions/22583391/peak-signal-detection-in-realtime-timeseries-data/22640362#22640362 
